@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static void main(String[] args) {
 //        public static user model = new user();
         //public static ArrayList<user> users = new ArrayList<>();
             int choice;
